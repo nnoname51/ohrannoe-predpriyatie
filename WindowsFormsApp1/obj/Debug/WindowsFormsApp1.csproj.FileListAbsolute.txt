@@ -1,0 +1,9 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32, 34\МДК 03.02\Газеев\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
